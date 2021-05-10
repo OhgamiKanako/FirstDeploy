@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
- <link rel="stylesheet" href="https://OhgamiKanako.github.io/FirstDeploy/style.css"/>
+ <link rel="stylesheet" href="https://OhgamiKanako.github.io/FirstDeploy/style.css">
 </head>
 <body>
  <h1>Pipeline & Deploy Success!!</h1>
