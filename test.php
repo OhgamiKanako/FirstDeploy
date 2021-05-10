@@ -11,5 +11,6 @@
 </style>
 <body>
  <h1>test Success!!</h1>
+ <h2>りんくてすとかんりょう</h2>
 </body>
 </html>
