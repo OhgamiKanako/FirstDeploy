@@ -6,7 +6,7 @@
 <body>
  <h1>Pipeline & Deploy Success!!</h1>
  <h2>AWS完了</h2>
- <a rel="test" href="test.php">
+ <a href="test.php">test</a>
  <?php phpinfo() ?>
 </body>
 </html>
