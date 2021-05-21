@@ -1,11 +1,11 @@
 <?php
   // データベースユーザ
-  $user = 'yaoya';
-  $password = 'yaoyapass';
+  $user = 'admin';
+  $password = 'adminpass';
   // 利用するデータベース
   $dbName = 'yaoya';
   // MySQLサーバ
-  $host = 'localhost:3306';
+  $host = 'db-mysql.caz8lxtiucm5.us-east-1.rds.amazonaws.com';
   // MySQLのDSN文字列
   $dsn = "mysql:host={$host};dbname={$dbName};charset=utf8";
   //MySQLデータベースに接続する
