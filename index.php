@@ -12,7 +12,7 @@
 <body>
  <h1>Pipeline & Deploy Success!!</h1>
  <h2>AWS完了</h2>
- <a href="test.php">test</a>
+ <a href="test.php">Clear</a>
  <?php phpinfo() ?>
 </body>
 </html>
