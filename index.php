@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="ja">
   <head>
-    <link rel="stylesheet" href="https://github.com/OhgamiKanako/FirstDeploy/blob/main/css/index.css" />
+    <link rel="stylesheet" href="https://OhgamiKanako.github.io/FirstDeploy/css/index.css" />
     <title>野菜を採るなら大原♪｜トップ</title>
   </head>
   <body>
