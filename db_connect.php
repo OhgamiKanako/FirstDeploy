@@ -1,7 +1,7 @@
 <?php
   // データベースユーザ
-  $user = 'admin';
-  $password = 'adminpass';
+  $user = 'yaoya';
+  $password = 'yaoyapass';
   // 利用するデータベース
   $dbName = 'yaoya';
   // MySQLサーバ
